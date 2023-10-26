@@ -1,4 +1,4 @@
-import torch
+print("hello world")
 import numpy as np
 from numpy import genfromtxt
 import time
